@@ -1,0 +1,151 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img0 {
+    margin: 14px;
+}
+
+.img_1 {
+    position: relative;
+    right: -140px;
+}
+
+.img_2 {
+    position: relative;
+    top: -14px;
+    right: -774px;
+}
+
+body {
+    background: white;
+}
+
+header {
+    background: #39a900;
+    width: 100%;
+    clear: both;
+    content: " ";
+    display: table;
+}
+
+.menu {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 17px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+nav{
+    float: right;
+}
+
+nav ul li {
+    list-style: none;
+    margin-right: 54px;
+    padding: 10px 0;
+    float: left;
+    position: relative;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav ul li a::before {
+    display: block;
+    content: " ";
+    width: 0;
+    background: #444;
+    height: 5px;
+    top: 0;
+    transition: width 0.2s;
+    position: absolute;
+}
+
+nav ul li a:hover:before {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.TITLE {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+.text_1 {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+.title_1 {
+    color: #39a900;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 30px;
+    padding-left: 1%;
+}
+.text_2 {
+    font-family: 'Inter', sans-serif;
+    padding-left: 1%;
+}
+
+.title_2 {
+    color: #39a900;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 30px;
+    padding-left: 1%;
+}
+.text_3 {
+    font-family: 'Inter', sans-serif;
+    padding-left: 1%;
+}
+
+.title_3 {
+    color: #39a900;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 30px;
+    padding-left: 1%;
+}
+.text_4 {
+    font-family: 'Inter', sans-serif;
+    padding-left: 1%;
+}
+
+.title_4 {
+    color: #39a900;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 30px;
+    padding-left: 1%;
+}
+.text_5 {
+    font-family: 'Inter', sans-serif;
+    padding-left: 1%;
+}
+
+.title_5 {
+    color: #39a900;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 30px;
+    padding-left: 1%;
+}
+.text_6 {
+    font-family: 'Inter', sans-serif;
+    padding-left: 1%;
+}
+
+.title_6 {
+    color: #39a900;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 30px;
+    padding-left: 1%;
+}
+.text_7 {
+    font-family: 'Inter', sans-serif;
+    padding-left: 1%;
+}
