@@ -82,19 +82,19 @@ nav ul li a:hover:before {
 }
 
 .img_3 {
-    position: relative;
-    top: 40px;
-    left: 12%;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 13%;
 }
 
 .img_4 {
-    position: relative;
-    top: 40px;
-    left: 16%;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 39%;
 }
 
 .img_5 {
-    position: relative;
-    top: 40px;
-    left: 20%;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 65%;
 }

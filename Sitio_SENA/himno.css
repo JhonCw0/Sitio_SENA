@@ -72,9 +72,9 @@ nav ul li a:hover:before {
 
 .img_3 {
     clip-path: inset(0 0 7% 0);
-    position: relative;
-    top: 40px;
-    left: 24%;
+    position: absolute;
+    margin-top:2% ;
+    margin-left: 24%;
 }
 
 .title {

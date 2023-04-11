@@ -21,6 +21,7 @@
 
 body {
     background: white;
+    overflow: hidden;
 }
 
 header {
@@ -71,21 +72,21 @@ nav ul li a:hover:before {
 }
 
 .img_3 {
-    position: relative;
-    left: 14%;
+    position: absolute;
+    margin-top: 1%;   
+    margin-left: 14%;
 }
-
 .title {
     font-family: 'Delicious Handrawn', cursive;
     font-size: 70px;
     position: absolute;
-    top: 250px;
-    left: 760px;
+    margin-top: 6%;
+    margin-left: 52%;
 }
 
 .text_1 {
     font-family: 'Inter', sans-serif;
     position: absolute;
-    top: 64%;
-    left: 44%;
+    margin-top: 16%;   
+    left: 42%;
 }
